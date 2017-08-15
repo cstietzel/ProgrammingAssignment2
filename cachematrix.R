@@ -1,5 +1,5 @@
 ## This is a collection of functionas that cache a matrix and its inverse
-## To calculate an matrix invers you must use the cacheSolve function on
+## To calculate a matrix inverse you must use the cacheSolve function
 
 ## The following function will create a cached matrix object
 ## The cache holds the matrix and its inverse.
